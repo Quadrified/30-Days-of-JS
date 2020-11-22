@@ -9,12 +9,12 @@ You'll have to watch these videos over and over again.
 My notes : Read these notes first (you might not understand)
 Watch the following videos and read it again.
 
-### What is the execution context?
+## What is the execution context?
 _Understand the context in javascript_ - https://youtu.be/_JMXlGt3OSo
 
 ---
 
-### What is lexical scoping?
+## What is lexical scoping?
 * _Lexical scoping in javascript_ - https://youtu.be/qT5S7GgIioE
 
 * _The Ultimate Guide to Execution Contexts, Hoisting, Scopes, and Closures in JavaScript_ - https://youtu.be/Nt-qa_LlUH0
