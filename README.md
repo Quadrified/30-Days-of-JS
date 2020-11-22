@@ -1,4 +1,4 @@
-# 30 Days of JS 🗓
+# 30 Days of JavaScript 🗓
 
 _All the notes, videos, articles on JS from @codeWithSimran._
 
