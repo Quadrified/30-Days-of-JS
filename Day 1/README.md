@@ -4,7 +4,7 @@ To get to that, first let's have some basics right.
 
 Note : you don't need to master these, we're going to explore these in detail later.
 
-Just knowing what they mean is enough ☺
+Just knowing what they mean is enough 😄
 
 ---
 ## What is asynchronous in JavaScript?
