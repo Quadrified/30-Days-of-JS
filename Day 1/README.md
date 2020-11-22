@@ -12,7 +12,7 @@ Just knowing what they mean is enough ☺
 _Understanding Asynchronous JavaScript_ - https://youtu.be/_IGIQ10yX1o
 
 ---
-### What is a callback ? 
+### What is a callback? 
 (We have detailed lecture for this, don't worry too much about it)
 
 _Understanding JavaScript Callbacks_ - https://youtu.be/Nau-iEEgEoM
