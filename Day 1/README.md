@@ -7,12 +7,12 @@ Note : you don't need to master these, we're going to explore these in detail la
 Just knowing what they mean is enough ☺
 
 ---
-### What is asynchronous in JavaScript?
+## What is asynchronous in JavaScript?
 
 _Understanding Asynchronous JavaScript_ - https://youtu.be/_IGIQ10yX1o
 
 ---
-### What is a callback? 
+## What is a callback? 
 (We have detailed lecture for this, don't worry too much about it)
 
 _Understanding JavaScript Callbacks_ - https://youtu.be/Nau-iEEgEoM
@@ -24,13 +24,13 @@ But I want you to know that *__setTimeOut__* is asynchronous and accepts a callb
 
 ---
 
-### So how does JavaScript engine work?
+## So how does JavaScript engine work?
 
 _Andrei Neagoie_ - https://youtu.be/hGSHfObcVf4
 
 ---
 
-#### Exercise
+### Exercise
 
 Guess the output of the following and the reason why you recieve the output that you do?
 
