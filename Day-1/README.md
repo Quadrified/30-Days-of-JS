@@ -34,7 +34,8 @@ _Andrei Neagoie_ - https://youtu.be/hGSHfObcVf4
 
 Guess the output of the following and the reason why you recieve the output that you do?
 
-```
+```Javascript
+
 console.log('1');
 setTimeout(() => {
         console.log('2')
