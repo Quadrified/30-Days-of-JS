@@ -4,7 +4,7 @@ _All the notes, videos, articles on JS from Simran Chaudhary - [the_frontend_dev
 
 These lectures or topics in 30 days of JS, cover topics that are mostly related to how actually JavaScript runs and what are the processes going on behind the curtains when you write a program.
 
-Check out some of the useful articles I have collected about JavaScript [here]()
+Check out some of the useful articles I have collected about JavaScript [here](https://github.com/Quadrified/30-Days-of-JS/blob/main/Articles.md#useful-articles-about-javascript)
 
 It covers important topics that are usually difficult to understand by the beginners while starting out learning JavaScript like - Currying, JavaScript Engine, Hoisting, Execution context etc., that make up most of the JavaScript universe.
 ##### Pre-requisites:
